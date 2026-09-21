@@ -43,12 +43,17 @@ node index.js
 
 ```
 
+---
+
 ## ⚠️ Security Warning
 
-❌ DO NOT commit the .env file to GitHub
-❌ DO NOT share your private key with anyone
-✅ Use a separate wallet specifically for the bot
-✅ Always test with a small amount first
+- ❌ **DO NOT** commit the .env file to GitHub
+- ❌ **DO NOT** bagikan private key ke siapapun
+- ✅ Use a separate wallet specifically for the bot
+- ✅ Always test with a small amount firstu
+
+---
+
 
 ## 📄 Lisensi
 
